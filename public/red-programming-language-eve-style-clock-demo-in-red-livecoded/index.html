@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Red Programming Language: Eve-style clock demo in Red, livecoded!"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@hamdouni"/>
+
+
+
+  	<meta property="og:title" content="Red Programming Language: Eve-style clock demo in Red, livecoded! &middot; Ordinary Tech Chronicle" />
+  	<meta property="og:site_name" content="Ordinary Tech Chronicle" />
+  	<meta property="og:url" content="http://brahim.hamdouni.com/red-programming-language-eve-style-clock-demo-in-red-livecoded/" />
+
+    
+        
+            <meta property="og:image" content="/fond.jpg"/>
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2017-01-04T16:56:06Z" />
+
+    
+    
+
+    <title>Red Programming Language: Eve-style clock demo in Red, livecoded! &middot; Ordinary Tech Chronicle</title>
+
+    
+    <meta name="description" content="&lt;p&gt;&lt;a href=&#34;http://www.red-lang.org/2016/07/eve-style-clock-demo-in-red-livecoded.html&#34;&gt;&lt;img class=&#34;alignnone size-full&#34; src=&#34;http://brahim.hamdouni.com/wp-uplo" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Ordinary Tech Chronicle" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.50-DEV" />
+
+    <link rel="canonical" href="http://brahim.hamdouni.com/red-programming-language-eve-style-clock-demo-in-red-livecoded/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": 
+    },
+    "author": {
+        "@type": "Person",
+        "name": ,
+        
+        "url": http://brahim.hamdouni.com,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": Red Programming Language: Eve-style clock demo in Red, livecoded!,
+    "name": Red Programming Language: Eve-style clock demo in Red, livecoded!,
+    "wordCount": 137,
+    "timeRequired": "PT1M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": http://brahim.hamdouni.com/red-programming-language-eve-style-clock-demo-in-red-livecoded/,
+    "datePublished": 2017-01-04T16:56Z,
+    "dateModified": 2017-01-04T16:56Z,
+    
+    
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": http://brahim.hamdouni.com/red-programming-language-eve-style-clock-demo-in-red-livecoded/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About me</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post posts">
+
+    <header class="post-header">
+        <h1 class="post-title">Red Programming Language: Eve-style clock demo in Red, livecoded!</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p><a href="http://www.red-lang.org/2016/07/eve-style-clock-demo-in-red-livecoded.html"><img class="alignnone size-full" src="http://brahim.hamdouni.com/wp-uploads/blue-clock2.gif" alt="" /></a></p>
+
+<p><a href="http://www.red-lang.org/2016/07/eve-style-clock-demo-in-red-livecoded.html"><strong>Red</strong> is a next-gen programming language, strongly inspired by </a><a href="http://rebol.com/">REBOL</a>. Main features are:</p>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Homoiconicity"><strong>Homoiconic</strong></a> (Red is its own meta-language and own <strong><a href="http://www.rebol.com/rebolsteps.html" target="_blank" rel="noopener">data-format</a></strong>)</li>
+<li><strong>Functional</strong>, imperative, <strong><a href="http://www.red-lang.org/2016/06/061-reactive-programming.html" target="_blank" rel="noopener">reactive</a></strong> and <strong>symbolic</strong> programming</li>
+<li><strong>Prototype</strong>-based object support</li>
+<li><strong>Gradual and multi-</strong>typing</li>
+<li><strong><a href="http://www.red-lang.org/2016/12/entering-world-of-macros.html" target="_blank" rel="noopener">Macros</a></strong> system</li>
+<li><strong>Rich</strong> set of built-in datatypes (50+)</li>
+<li>Both <strong>statically</strong> and <strong>JIT</strong>&#8211;<strong>compiled</strong> to native code</li>
+<li><strong>Cross-compilation</strong> <a href="https://github.com/red/red/blob/master/usage.txt" target="_blank" rel="noopener">done</a> <a href="https://github.com/red/red/blob/master/system/config.r" target="_blank" rel="noopener">right</a>.</li>
+<li>Produces executables of <strong>less than 1MB</strong>, with <strong>no dependencies.</strong></li>
+<li><strong>Concurrency</strong> and <strong>parallelism</strong> strong support (actors, parallel collections)</li>
+<li>Low-level <strong>system programming</strong> abilities through the built-in Red/System <a href="http://en.wikipedia.org/wiki/Domain-specific_language">DSL</a></li>
+<li>Powerful <strong>PEG <a href="http://www.red-lang.org/2013/11/041-introducing-parse.html" target="_blank" rel="noopener">parser </a></strong><a href="http://www.red-lang.org/2013/11/041-introducing-parse.html" target="_blank" rel="noopener">DSL</a></li>
+<li><strong>Cross-platform native <a href="http://www.red-lang.org/2016/03/060-red-gui-system.html" target="_blank" rel="noopener">GUI </a></strong><a href="http://www.red-lang.org/2016/03/060-red-gui-system.html" target="_blank" rel="noopener">system</a>, with a <a href="http://doc.red-lang.org/gui/VID.html" target="_blank" rel="noopener">UI DSL</a> and <a href="http://doc.red-lang.org/gui/Draw.html" target="_blank" rel="noopener">drawing DSL</a>.</li>
+<li><strong>Bridging</strong> <a href="https://github.com/red/red/blob/master/bridges/java/hello.red" target="_blank" rel="noopener">to the JVM</a></li>
+<li>High-level <strong>scripting</strong> and <a href="http://en.wikipedia.org/wiki/Read-eval-print_loop"><strong>REPL</strong></a> console included</li>
+<li>Highly <strong>embeddable</strong></li>
+<li><strong>Low</strong> memory footprint, <strong>garbage collected</strong></li>
+<li><strong><a href="http://www.red-lang.org/p/download.html" target="_blank" rel="noopener">Single-file</a></strong> (~1MB) contains whole toolchain, standard library and REPL.</li>
+<li><strong>No install, no setup</strong></li>
+<li><strong>Fun</strong> guaranteed. 😉</li>
+</ul>
+
+<p>Source : <em><a href="http://www.red-lang.org/2016/07/eve-style-clock-demo-in-red-livecoded.html">Red Programming Language: Eve-style clock demo in Red, livecoded!</a></em></p>
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="http://brahim.hamdouni.com">Brahim</a></h4>
+  
+  <p>Read <a href="http://brahim.hamdouni.com">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Paris, France</span>
+    <span class="author-link icon-link"><a href="http://brahim.hamdouni.com">http://brahim.hamdouni.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Red%20Programming%20Language%3a%20Eve-style%20clock%20demo%20in%20Red%2c%20livecoded%21&nbsp;-&nbsp;Ordinary%20Tech%20Chronicle&amp;url=http%3a%2f%2fbrahim.hamdouni.com%2fred-programming-language-eve-style-clock-demo-in-red-livecoded%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fbrahim.hamdouni.com%2fred-programming-language-eve-style-clock-demo-in-red-livecoded%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fbrahim.hamdouni.com%2fred-programming-language-eve-style-clock-demo-in-red-livecoded%2f&amp;description=Red%20Programming%20Language%3a%20Eve-style%20clock%20demo%20in%20Red%2c%20livecoded%21"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=http%3a%2f%2fbrahim.hamdouni.com%2fred-programming-language-eve-style-clock-demo-in-red-livecoded%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/dont-forget-master-infos-in-your-mysql-dump/">
+          <section class="post">
+              <h2>Don’t forget master infos in your MySQL dump</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/consul-0-7-1-hashicorp/">
+          <section class="post">
+              <h2>Consul 0.7.1 | HashiCorp</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Ordinary Tech Chronicle</a> </section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

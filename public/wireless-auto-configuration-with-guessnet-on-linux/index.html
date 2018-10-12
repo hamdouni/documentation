@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    
+    
+        <meta name="twitter:card" content="summary"/>
+    
+
+
+
+<meta name="twitter:title" content="Wireless auto configuration with guessnet on Linux"/>
+<meta name="twitter:description" content=""/>
+<meta name="twitter:site" content="@hamdouni"/>
+
+
+
+  	<meta property="og:title" content="Wireless auto configuration with guessnet on Linux &middot; Ordinary Tech Chronicle" />
+  	<meta property="og:site_name" content="Ordinary Tech Chronicle" />
+  	<meta property="og:url" content="http://brahim.hamdouni.com/wireless-auto-configuration-with-guessnet-on-linux/" />
+
+    
+        
+            <meta property="og:image" content="/fond.jpg"/>
+        
+    
+
+    
+    <meta property="og:description" content="" />
+  	<meta property="og:type" content="article" />
+    <meta property="article:published_time" content="2015-05-17T17:52:51Z" />
+
+    
+    <meta property="article:tag" content="howto" />
+    
+    <meta property="article:tag" content="linux" />
+    
+    <meta property="article:tag" content="ubuntu" />
+    
+    
+
+    <title>Wireless auto configuration with guessnet on Linux &middot; Ordinary Tech Chronicle</title>
+
+    
+    <meta name="description" content="&lt;p&gt;&lt;img class=&#34;alignright wp-image-1383 size-thumbnail&#34; src=&#34;http://brahim.hamdouni.com/wp-uploads/eiffel-wireless-150x150.png&#34; alt=&#34;The wireless tour eiffel&#34; w" />
+    
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="/images/favicon.ico">
+	  <link rel="apple-touch-icon" href="/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" type="text/css" href="/css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="/css/nav.css" />
+
+    
+
+    
+
+    
+      
+          <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Ordinary Tech Chronicle" />
+      
+      
+    
+    <meta name="generator" content="Hugo 0.50-DEV" />
+
+    <link rel="canonical" href="http://brahim.hamdouni.com/wireless-auto-configuration-with-guessnet-on-linux/" />
+
+    
+      
+    
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "publisher": {
+        "@type": "Organization",
+        "name": 
+    },
+    "author": {
+        "@type": "Person",
+        "name": ,
+        
+        "url": http://brahim.hamdouni.com,
+        "sameAs": [
+            
+            
+             
+             
+             
+             
+             
+            
+        ]
+    },
+    "headline": Wireless auto configuration with guessnet on Linux,
+    "name": Wireless auto configuration with guessnet on Linux,
+    "wordCount": 193,
+    "timeRequired": "PT1M",
+    "inLanguage": {
+      "@type": "Language",
+      "alternateName": en
+    },
+    "url": http://brahim.hamdouni.com/wireless-auto-configuration-with-guessnet-on-linux/,
+    "datePublished": 2015-05-17T17:52Z,
+    "dateModified": 2015-05-17T17:52Z,
+    
+    "keywords": howto, linux, ubuntu,
+    "description": ,
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": http://brahim.hamdouni.com/wireless-auto-configuration-with-guessnet-on-linux/
+    }
+}
+    </script>
+    
+
+
+    
+
+    
+
+    
+</head>
+<body class="nav-closed">
+
+  <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+        
+        
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/about">About me</a>
+            </li>
+        
+            
+            <li class="nav-opened" role="presentation">
+            	<a href="/">Blog</a>
+            </li>
+        
+        
+    </ul>
+
+    
+    <a class="subscribe-button icon-feed" href="/index.xml">Subscribe</a>
+    
+</div>
+<span class="nav-cover"></span>
+
+
+ <div class="site-wrapper">
+
+
+
+<header class="main-header post-head no-cover">
+  <nav class="main-nav clearfix">
+
+
+  
+  
+      <a class="menu-button" href="#"><span class="burger">&#9776;</span><span class="word">Menu</span></a>
+  
+  </nav>
+</header>
+
+
+
+<main class="content" role="main">
+
+
+
+
+  <article class="post posts">
+
+    <header class="post-header">
+        <h1 class="post-title">Wireless auto configuration with guessnet on Linux</h1>
+        <small></small>
+
+        <section class="post-meta">
+        
+         
+          <span class="post-tag small"><a href="http://brahim.hamdouni.com/tags/howto/">#howto</a></span>
+         
+          <span class="post-tag small"><a href="http://brahim.hamdouni.com/tags/linux/">#linux</a></span>
+         
+          <span class="post-tag small"><a href="http://brahim.hamdouni.com/tags/ubuntu/">#ubuntu</a></span>
+         
+        </section>
+    </header>
+
+    <section class="post-content">
+      <p><img class="alignright wp-image-1383 size-thumbnail" src="http://brahim.hamdouni.com/wp-uploads/eiffel-wireless-150x150.png" alt="The wireless tour eiffel" width="150" height="150" /></p>
+
+<p>Assume we have access to the wifi at work and at home. How can I configure my laptop to automatically connect to the right network without using a graphical network manager ? Welcome guessnet !</p>
+
+<p></p>
+
+<p>Install the guessnet package :</p>
+
+<pre>sudo apt-get install guessnet</pre>
+
+<p>Edit your /etc/network/interface :</p>
+
+<pre>auto wlan0
+mapping wlan0
+    script /usr/sbin/guessnet-ifupdown
+    map home work
+    map timeout: 9
+    map init-time: 9
+    map verbose: true
+    map debug: false    
+
+iface home inet dhcp
+    wpa-ssid "<em>homessid</em>"
+    wpa-psk "<em>homepassword</em>"
+    test wireless essid <em>HOMESSID</em>
+
+iface work inet dhcp
+    wpa-ssid "<em>workssid</em>"
+    wpa-psk "<em>workpassword</em>"
+    test wireless essid <em>WORKESSID</em>
+</pre>
+
+<p><em>(variables to adapt to your configuration in italic)</em></p>
+
+<p>We define the &#8216;home&#8217; and &#8216;work&#8217; networks as usual with the iface command. The 2 differences are :</p>
+
+<ul>
+<li>we use the virtual interface &#8220;work&#8221; and &#8220;home&#8221; instead of the real interface &#8220;wlan0&#8221;.</li>
+<li>we add a test line that checks the ssid : this is used by guessnet to guess the right network</li>
+</ul>
+
+<p>The mapping block uses an external script (here guessnet) with prudent parameters</p>
+
+<ul>
+<li>the &#8216;map home work&#8217; tells guessnet to only check this 2 networks</li>
+<li>the init-time wait a little before configuring, to let the drive enough time</li>
+</ul>
+
+<p>That&#8217;s it !</p>
+    </section>
+
+
+  <footer class="post-footer">
+
+
+    
+
+
+
+
+
+
+
+
+
+<section class="author">
+  <h4><a href="http://brahim.hamdouni.com">Brahim</a></h4>
+  
+  <p>Read <a href="http://brahim.hamdouni.com">more posts</a> by this author.</p>
+  
+  <div class="author-meta">
+    <span class="author-location icon-location">Paris, France</span>
+    <span class="author-link icon-link"><a href="http://brahim.hamdouni.com">http://brahim.hamdouni.com</a></span>
+  </div>
+</section>
+
+
+
+
+    
+<section class="share">
+  <h4>Share this post</h4>
+  <a class="icon-twitter" style="font-size: 1.4em" href="https://twitter.com/share?text=Wireless%20auto%20configuration%20with%20guessnet%20on%20Linux&nbsp;-&nbsp;Ordinary%20Tech%20Chronicle&amp;url=http%3a%2f%2fbrahim.hamdouni.com%2fwireless-auto-configuration-with-guessnet-on-linux%2f"
+      onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+      <span class="hidden">Twitter</span>
+  </a>
+  <a class="icon-facebook" style="font-size: 1.4em" href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2fbrahim.hamdouni.com%2fwireless-auto-configuration-with-guessnet-on-linux%2f"
+      onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
+      <span class="hidden">Facebook</span>
+  </a>
+  <a class="icon-pinterest" style="font-size: 1.4em" href="http://pinterest.com/pin/create/button/?url=http%3a%2f%2fbrahim.hamdouni.com%2fwireless-auto-configuration-with-guessnet-on-linux%2f&amp;description=Wireless%20auto%20configuration%20with%20guessnet%20on%20Linux"
+      onclick="window.open(this.href, 'pinterest-share','width=580,height=296');return false;">
+      <span class="hidden">Pinterest</span>
+  </a>
+  <a class="icon-google-plus" style="font-size: 1.4em" href="https://plus.google.com/share?url=http%3a%2f%2fbrahim.hamdouni.com%2fwireless-auto-configuration-with-guessnet-on-linux%2f"
+     onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
+      <span class="hidden">Google+</span>
+  </a>
+</section>
+
+
+
+    
+
+
+
+
+
+
+
+  </footer>
+</article>
+
+</main>
+
+
+  <aside class="read-next">
+  
+      <a class="read-next-story" style="no-cover" href="/tmux-for-the-impatient/">
+          <section class="post">
+              <h2>Tmux for the impatient</h2>
+              
+          </section>
+      </a>
+  
+  
+      <a class="read-next-story prev" style="no-cover" href="/citation-politique-du-jour/">
+          <section class="post">
+              <h2>Citation politique du jour</h2>
+          </section>
+      </a>
+  
+</aside>
+
+
+
+    <footer class="site-footer clearfix">
+        <section class="copyright"><a href="">Ordinary Tech Chronicle</a> </section>
+        
+        <section class="poweredby">Proudly generated by <a class="icon-hugo" href="http://gohugo.io">HUGO</a>, with <a class="icon-theme" href="https://github.com/vjeantet/hugo-theme-casper">Casper</a> theme</section>
+        
+    </footer>
+    </div>
+    <script type="text/javascript" src="/js/jquery.js"></script>
+    <script type="text/javascript" src="/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/js/index.js"></script>
+    
+</body>
+</html>
+

@@ -1,0 +1,1580 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/force-wifi-interface-name-on-ubuntu-18-04/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/forcer-le-nom-de-linterface-wifi-sous-ubuntu-18-04/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/vs-code-loses-go-autocompletion-on-linux/</loc>
+    <lastmod>2018-03-26T22:15:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/docker-from-scratch-golang-and-multipart-upload/</loc>
+    <lastmod>2018-01-26T12:25:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/minimal-docker-golang-et-le-televersement-multipart/</loc>
+    <lastmod>2018-01-26T12:25:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/samba-public-share/</loc>
+    <lastmod>2018-01-10T15:48:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/convert-pdf-to-png-with-enough-resolution/</loc>
+    <lastmod>2017-03-27T23:06:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/dont-forget-master-infos-in-your-mysql-dump/</loc>
+    <lastmod>2017-02-20T16:54:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/bio/</loc>
+    <lastmod>2017-01-04T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/curriculum-vitae/</loc>
+    <lastmod>2017-01-04T17:36:30+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/links/</loc>
+    <lastmod>2017-01-04T17:22:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/red-programming-language-eve-style-clock-demo-in-red-livecoded/</loc>
+    <lastmod>2017-01-04T16:56:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/consul-0-7-1-hashicorp/</loc>
+    <lastmod>2017-01-04T14:58:37+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/docker-build-ship-and-run-any-app-anywhere/</loc>
+    <lastmod>2017-01-04T14:02:36+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/les-theoremes-dincompletude-de-go%CC%88del-science-etonnante-37-youtube/</loc>
+    <lastmod>2016-12-12T11:30:49+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/mysql-import-from-csv/</loc>
+    <lastmod>2016-10-12T12:36:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/mysql-export-to-csv/</loc>
+    <lastmod>2016-10-12T12:32:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/cheyenne-server-and-post-size-limit/</loc>
+    <lastmod>2016-10-03T13:49:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/boot-linux-in-text-console/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/demarrer-linux-sur-la-console-texte/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/french-git-log-2/</loc>
+    <lastmod>2016-06-07T09:25:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/french-git-log/</loc>
+    <lastmod>2016-06-07T09:25:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/mysql-client-dont-show-columns-names-and-grid/</loc>
+    <lastmod>2016-05-30T08:33:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/mysql-client-ne-pas-afficher-le-nom-des-colonnes-et-les-tirets-du-tableau/</loc>
+    <lastmod>2016-05-30T08:33:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/allow-invalid-date-in-mysql/</loc>
+    <lastmod>2016-05-23T13:55:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/autoriser-les-dates-invalides-dans-mysql/</loc>
+    <lastmod>2016-05-23T13:55:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/dut-informatique-en-savoir-plus/</loc>
+    <lastmod>2016-02-09T14:40:02+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/dut/</loc>
+    <lastmod>2016-02-09T13:17:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/screencast-with-byzance-on-linux/</loc>
+    <lastmod>2015-10-27T15:28:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/not-permitted-to-mount-disk/</loc>
+    <lastmod>2015-09-07T05:30:59+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/how-to-forward-outlook-emails-with-vb-script/</loc>
+    <lastmod>2015-08-31T05:30:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/invisible-code-sticks-forever/</loc>
+    <lastmod>2015-08-24T05:30:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/timing-is-the-key-to-startup-success/</loc>
+    <lastmod>2015-08-10T17:19:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tmux-for-the-impatient/</loc>
+    <lastmod>2015-07-08T11:46:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/wireless-auto-configuration-with-guessnet-on-linux/</loc>
+    <lastmod>2015-05-17T17:52:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/citation-politique-du-jour/</loc>
+    <lastmod>2015-02-13T12:30:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/marchandage/</loc>
+    <lastmod>2015-02-09T16:32:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/the-extreme-productivity-philosophy-that-created-facebook-and-paypal/</loc>
+    <lastmod>2015-01-16T14:33:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/if-ssh-client-disconnect-and-freeze/</loc>
+    <lastmod>2015-01-14T17:55:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/git-delete-remote-branch/</loc>
+    <lastmod>2015-01-07T09:38:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/horizontal-rule-in-zsh-prompt/</loc>
+    <lastmod>2014-12-26T16:58:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/increase-wordpress-max-file-upload-size/</loc>
+    <lastmod>2014-12-05T14:42:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/substitute-a-text-only-in-files-where-it-appears/</loc>
+    <lastmod>2014-12-03T18:12:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/convert-multiple-files-to-utf8-using-vim/</loc>
+    <lastmod>2014-12-03T17:44:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/git-stop-tracking-files/</loc>
+    <lastmod>2014-11-28T10:19:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/zsh-nohup-and-background-process-that-lasts/</loc>
+    <lastmod>2014-11-27T10:58:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/install-minimum-php-no-apache/</loc>
+    <lastmod>2014-11-24T13:46:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/get-rid-of-the-desktop-icon-in-nautilus-3-10-side-bar/</loc>
+    <lastmod>2014-11-07T15:59:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/stretched-background-with-ie8/</loc>
+    <lastmod>2014-07-17T16:43:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/speech-tasks-a-todo-webapp-driven-by-your-voice/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/speech-tasks-une-webapp-avec-reconnaissance-vocale/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/usb-disk-et-policykit-fr/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/usb-mount-and-polykit-en/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/blog-en/</loc>
+    <lastmod>2014-06-18T21:28:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/blog/</loc>
+    <lastmod>2014-06-18T21:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/earth-viewed-from-iss-zen-moment/</loc>
+    <lastmod>2014-05-26T12:55:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/video-background-en/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/video-background-fr/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/about/</loc>
+    <lastmod>2014-04-29T09:11:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/about-me/</loc>
+    <lastmod>2014-04-29T09:11:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/education-2/</loc>
+    <lastmod>2014-04-29T08:39:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/education/</loc>
+    <lastmod>2014-04-29T08:39:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/2048-gremlins-2/</loc>
+    <lastmod>2014-04-28T17:17:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/2048-gremlins/</loc>
+    <lastmod>2014-04-28T17:17:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/news-notification/</loc>
+    <lastmod>2014-04-28T16:43:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/bon-a-savoir-partager-un-google-calendar-en-dehors-du-domaine/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/une-ligne-horizontale-ajustee-avant-chaque-prompt/</loc>
+    <lastmod>2014-02-21T11:43:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/copier-sa-cle-publique-sur-un-serveur-distant/</loc>
+    <lastmod>2014-02-12T14:25:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/disruption-lair-bag-pour-les-cyclistes/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/lets-groove/</loc>
+    <lastmod>2014-01-19T01:20:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/comment-se-debarrasser-des-pubs-dans-gmail-sous-chrome/</loc>
+    <lastmod>2014-01-10T10:18:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/installer-une-jvm-sous-ubuntu/</loc>
+    <lastmod>2014-01-07T08:50:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/surveiller-mysql-pour-pas-cher/</loc>
+    <lastmod>2013-12-10T18:02:44+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/forum/</loc>
+    <lastmod>2013-11-28T15:23:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/zx-81-basic/</loc>
+    <lastmod>2013-09-13T08:44:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/notification-sous-linux/</loc>
+    <lastmod>2013-09-10T13:47:25+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/louer-des-bureaux-vous-avez-une-assurance-vie/</loc>
+    <lastmod>2013-09-05T19:27:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/rdesktop-et-transfert-de-fichier/</loc>
+    <lastmod>2013-08-01T22:44:22+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/alerte-nouvel-article/</loc>
+    <lastmod>2013-01-16T15:18:15+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/finalement-sosh-aime-les-entrepreneurs-meme-sil-ne-le-sait-pas/</loc>
+    <lastmod>2012-10-17T11:38:50+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/google-et-les-pros/</loc>
+    <lastmod>2012-09-19T14:39:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/sosh-naime-pas-les-entrepreneurs/</loc>
+    <lastmod>2012-07-12T16:34:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/le-design-dapplication-ce-quon-aimerait-faire-et-ce-quon-fait/</loc>
+    <lastmod>2012-07-10T12:12:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/prometheus-le-dernier-ridley-scott/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/pdf-js-du-pdf-dans-vos-pages-web-sans-plugins/</loc>
+    <lastmod>2012-05-07T10:14:01+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/linux-en-chiffres-et-en-video/</loc>
+    <lastmod>2012-04-04T11:17:04+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/519/</loc>
+    <lastmod>2011-09-18T20:25:31+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/petits-jeux-educatifs/</loc>
+    <lastmod>2011-09-08T21:27:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/cetait-le-2-juin-1972/</loc>
+    <lastmod>2011-06-05T22:50:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/pdf-et-viewer-javascript/</loc>
+    <lastmod>2011-03-08T22:39:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/facturationzen-un-cas-dutilisation-pratique-chez-softinnov/</loc>
+    <lastmod>2010-12-01T09:22:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/transformer-votre-ubuntu-gnome-en-machine-vraiment-publique/</loc>
+    <lastmod>2010-10-31T17:54:28+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/des-millions-pour-la-khan-academy/</loc>
+    <lastmod>2010-09-26T16:46:42+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/les-contes-de-linternet-francais-par-jmb/</loc>
+    <lastmod>2010-09-13T08:30:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/votre-cartao-de-cidadao-svp/</loc>
+    <lastmod>2010-09-07T15:58:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/gmail-priority-inbox-kesako/</loc>
+    <lastmod>2010-09-03T09:11:51+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/vocaloid-ou-comment-faire-chanter-les-robots/</loc>
+    <lastmod>2010-08-03T15:56:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/alternative-captcha/</loc>
+    <lastmod>2010-07-05T19:53:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/the-fun-theory-de-moins-en-moins-fun/</loc>
+    <lastmod>2010-06-24T09:52:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/bloguer-pour-devenir-riche/</loc>
+    <lastmod>2010-06-14T22:06:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/sal-khan-academy/</loc>
+    <lastmod>2010-05-18T09:23:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/les-10-principes-de-design-dinterface/</loc>
+    <lastmod>2010-05-12T10:01:21+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/lipad-meme-une-gosse-y-arriverait/</loc>
+    <lastmod>2010-04-07T14:27:32+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/the-fun-theory/</loc>
+    <lastmod>2010-02-05T17:12:26+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/pranav-mistry/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/voyage-au-centre-de-la-cellule/</loc>
+    <lastmod>2010-01-29T11:06:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/art-science-education/</loc>
+    <lastmod>2010-01-27T12:27:39+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/inspiration/</loc>
+    <lastmod>2010-01-21T11:44:41+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/fantastiques-gamins/</loc>
+    <lastmod>2009-11-19T16:33:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/comment-convertir-en-masse-des-pdf-en-jpg-avec-imagemagik/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/comment-utiliser-skype-et-la-logitech-quick-messenger-sous-ubuntu-9-04/</loc>
+    <lastmod>2009-08-27T13:16:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/6e-sens/</loc>
+    <lastmod>2009-04-20T17:52:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/developpons-en-java/</loc>
+    <lastmod>2009-04-05T15:32:52+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/gmail-off-line/</loc>
+    <lastmod>2009-02-04T11:49:14+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/le-freerunner-dopenmoko-un-telephone-opensource/</loc>
+    <lastmod>2009-01-21T11:03:54+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/le-systeme-economique-capitaliste-est-un-desastre/</loc>
+    <lastmod>2009-01-07T21:42:17+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/the-girl-effect-ou-comment-developper-le-monde-par-les-femmes/</loc>
+    <lastmod>2008-11-27T16:26:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/microsoft-office-attend-limprimante-et-moi-je-perd-mon-temps/</loc>
+    <lastmod>2008-11-25T14:11:33+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/comment-creer-un-bouton-paypal-de-don/</loc>
+    <lastmod>2008-11-12T22:44:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/la-poste-en-ligne-en-panne/</loc>
+    <lastmod>2008-11-06T17:36:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/mes-3-propositions-pour-alleger-les-cartables/</loc>
+    <lastmod>2008-10-24T16:56:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/chandler/</loc>
+    <lastmod>2008-09-29T16:03:24+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/un-generateur-de-punition/</loc>
+    <lastmod>2008-09-15T09:09:48+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/gtd-my-way/</loc>
+    <lastmod>2008-09-08T21:01:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/microsoft-ie6-ergonomie-douteuse-oui-ou-oui/</loc>
+    <lastmod>2008-02-11T09:19:57+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/wordpress-mysql-et-url-cassee/</loc>
+    <lastmod>2008-01-10T22:23:23+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/firefox-utiliser-la-barre-dadresse-comme-champ-de-recherche/</loc>
+    <lastmod>2008-01-07T10:18:55+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/integration-firefox-thunderbird/</loc>
+    <lastmod>2007-12-18T14:36:34+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/backup-ftp-de-fichier-et-dossiers/</loc>
+    <lastmod>2007-12-17T14:27:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/linux-cle-usb-vfat-read-only/</loc>
+    <lastmod>2007-12-12T11:07:09+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/csv-excel-java-bsh-hsqldb-et-companie/</loc>
+    <lastmod>2007-10-27T15:03:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/trifecta-sd-micro-sd-et-usb-en-1/</loc>
+    <lastmod>2007-10-18T07:49:03+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/deconnexion-pptp/</loc>
+    <lastmod>2007-02-09T17:01:08+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/eclipse-jetty-launcher/</loc>
+    <lastmod>2006-03-17T15:59:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/zshrc-et-windows/</loc>
+    <lastmod>2005-09-06T10:44:38+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/supprimer-laffichage-des-logs-sur-la-console/</loc>
+    <lastmod>2005-08-08T08:09:27+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/22/</loc>
+    <lastmod>2005-05-26T15:04:07+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/environnement-de-bureau-leger/</loc>
+    <lastmod>2005-05-11T12:44:56+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/coder-en-rebol-sous-jedit/</loc>
+    <lastmod>2005-04-20T11:17:10+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/wp-uploads/</loc>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/6e/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/altermondialisme/</loc>
+    <lastmod>2010-09-26T16:46:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/angular-light/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/annyang/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/apps/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/argent/</loc>
+    <lastmod>2015-02-09T16:32:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/art/</loc>
+    <lastmod>2010-01-27T12:27:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/art/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/background/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/basic/</loc>
+    <lastmod>2013-09-13T08:44:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/boot/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/bug/</loc>
+    <lastmod>2018-03-26T22:15:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/calendar/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/capitalisme/</loc>
+    <lastmod>2009-01-07T21:42:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/cellulaire/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/cheyenne/</loc>
+    <lastmod>2016-10-03T13:49:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/comment-faire/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/console/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/convert/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/crise/</loc>
+    <lastmod>2009-01-07T21:42:17+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/css/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/css3/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/dbus/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/desktop/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/dev/</loc>
+    <lastmod>2018-03-26T22:15:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/docker/</loc>
+    <lastmod>2018-01-26T12:25:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/dpi/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/dwm/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/d%C3%A9marrage/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/d%C3%A9veloppement-durable/</loc>
+    <lastmod>2010-06-24T09:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/email/</loc>
+    <lastmod>2010-09-03T09:11:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/enfant/</loc>
+    <lastmod>2013-09-13T08:44:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/entrepreneur/</loc>
+    <lastmod>2015-02-09T16:32:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/ergonomie/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/ergonomie/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/facturation/</loc>
+    <lastmod>2010-12-01T09:22:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/facturationzen/</loc>
+    <lastmod>2010-12-01T09:22:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/femme/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/fille/</loc>
+    <lastmod>2008-11-27T16:26:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/film/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/firefox/</loc>
+    <lastmod>2012-05-07T10:14:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/fun/</loc>
+    <lastmod>2016-12-12T11:30:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/fun/</loc>
+    <lastmod>2016-12-12T11:30:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/git/</loc>
+    <lastmod>2016-06-07T09:25:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/git/</loc>
+    <lastmod>2015-01-07T09:38:14+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/gmail/</loc>
+    <lastmod>2014-01-10T10:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/gnome/</loc>
+    <lastmod>2010-10-31T17:54:28+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/gnome-settings-daemon/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/go/</loc>
+    <lastmod>2018-03-26T22:15:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/golang/</loc>
+    <lastmod>2018-03-26T22:15:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/google/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/google-apps/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/google-chrome/</loc>
+    <lastmod>2014-01-10T10:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/groovy/</loc>
+    <lastmod>2014-01-19T01:20:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/g%C3%A9nie/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/how-to/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/howto/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/html/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/html5/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/ihm/</loc>
+    <lastmod>2010-07-05T19:53:58+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/imagemagick/</loc>
+    <lastmod>2017-03-27T23:06:02+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/imagemagik/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/internet/</loc>
+    <lastmod>2010-09-13T08:30:39+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/invention/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/invention/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/java/</loc>
+    <lastmod>2014-01-19T01:20:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/java/</loc>
+    <lastmod>2014-01-19T01:20:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/javascript/</loc>
+    <lastmod>2015-08-24T05:30:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/jpeg/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/jpg/</loc>
+    <lastmod>2009-10-13T09:34:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/linux/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/linux/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/logitech/</loc>
+    <lastmod>2009-08-27T13:16:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/mat%C3%A9riel/</loc>
+    <lastmod>2014-02-06T15:25:12+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/microsoft/</loc>
+    <lastmod>2008-11-25T14:11:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/miniature/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/minimal/</loc>
+    <lastmod>2018-01-26T12:25:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/mit/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/monde/</loc>
+    <lastmod>2010-09-26T16:46:42+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/morale/</loc>
+    <lastmod>2010-06-24T09:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/mozilla/</loc>
+    <lastmod>2012-05-07T10:14:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/mysql/</loc>
+    <lastmod>2017-02-20T16:54:46+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/network/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/opensource/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/outlook/</loc>
+    <lastmod>2015-08-31T05:30:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/partage/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/pauvret%C3%A9/</loc>
+    <lastmod>2008-11-27T16:26:10+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/paypal/</loc>
+    <lastmod>2008-11-12T22:44:45+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/pdf/</loc>
+    <lastmod>2012-05-07T10:14:01+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/perte-de-temps/</loc>
+    <lastmod>2008-11-25T14:11:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/php/</loc>
+    <lastmod>2014-12-05T14:42:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/policykit/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/politique/</loc>
+    <lastmod>2015-02-13T12:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/politique/</loc>
+    <lastmod>2015-02-13T12:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/posts/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/pranav-mistry/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/productivit%C3%A9/</loc>
+    <lastmod>2014-03-31T14:00:06+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/projecteur/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/promotheus/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/prompt/</loc>
+    <lastmod>2014-12-26T16:58:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/publicit%C3%A9/</loc>
+    <lastmod>2014-01-10T10:18:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/quickam-messenger/</loc>
+    <lastmod>2009-08-27T13:16:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/quickcam/</loc>
+    <lastmod>2009-08-27T13:16:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/reseau/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/ridley-scott/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/sal-khan/</loc>
+    <lastmod>2010-05-18T09:23:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/samba/</loc>
+    <lastmod>2018-01-10T15:48:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/science-fiction/</loc>
+    <lastmod>2012-05-10T16:18:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/scratch/</loc>
+    <lastmod>2018-01-26T12:25:23+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/self-development/</loc>
+    <lastmod>2010-06-24T09:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/sens/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/service/</loc>
+    <lastmod>2015-02-09T16:32:11+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/services/</loc>
+    <lastmod>2012-10-17T11:38:50+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/share/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/shell/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/social/</loc>
+    <lastmod>2015-02-13T12:30:13+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/softinnov/</loc>
+    <lastmod>2013-09-05T19:27:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/space/</loc>
+    <lastmod>2014-05-26T12:55:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/speech-recognition/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/categories/startups/</loc>
+    <lastmod>2015-08-10T17:19:34+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/storage/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/s%C3%A9curit%C3%A9/</loc>
+    <lastmod>2014-02-12T14:25:38+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/</loc>
+    <lastmod>2010-02-02T11:45:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/text/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/texte/</loc>
+    <lastmod>2016-08-29T08:41:27+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/tmux/</loc>
+    <lastmod>2015-07-08T11:46:33+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/t%C3%A9l%C3%A9phone/</loc>
+    <lastmod>2009-04-20T17:52:54+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/ubuntu/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/udev/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/usb/</loc>
+    <lastmod>2014-06-18T21:41:51+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/video/</loc>
+    <lastmod>2014-05-06T13:40:21+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/vim/</loc>
+    <lastmod>2014-12-03T17:44:07+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/web/</loc>
+    <lastmod>2015-08-24T05:30:57+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/web-speech-api/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/webapp/</loc>
+    <lastmod>2014-06-30T15:58:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/webcam/</loc>
+    <lastmod>2009-08-27T13:16:16+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/wifi/</loc>
+    <lastmod>2018-09-07T14:31:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/windows/</loc>
+    <lastmod>2015-08-31T05:30:05+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/wordpress/</loc>
+    <lastmod>2014-12-05T14:42:56+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/zen/</loc>
+    <lastmod>2014-05-26T12:55:19+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/zsh/</loc>
+    <lastmod>2014-12-26T16:58:41+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/zx81/</loc>
+    <lastmod>2013-09-13T08:44:53+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/%C3%A9ducation/</loc>
+    <lastmod>2016-12-12T11:30:49+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://brahim.hamdouni.com/tags/%C3%A9thique/</loc>
+    <lastmod>2010-06-24T09:52:48+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
